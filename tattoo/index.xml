@@ -6,15 +6,24 @@
     <description>Recent content in Tattoos on ʕ•ᴥ•ʔ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Sep 2016 11:41:57 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Sep 2016 11:41:57 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/tattoo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Eyemap</title>
-      <link>http://gogo.tattoo/tattoo/eyemap/</link>
+      <title>Backmap</title>
+      <link>http://gogo.tattoo/tattoo/backmap/</link>
+      <pubDate>Thu, 08 Sep 2016 11:41:57 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/backmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fronteye</title>
+      <link>http://gogo.tattoo/tattoo/fronteye/</link>
       <pubDate>Wed, 07 Sep 2016 11:41:57 +0800</pubDate>
       
-      <guid>http://gogo.tattoo/tattoo/eyemap/</guid>
+      <guid>http://gogo.tattoo/tattoo/fronteye/</guid>
       <description></description>
     </item>
     
@@ -132,15 +141,6 @@
       <pubDate>Sun, 12 Jun 2016 23:09:34 +0800</pubDate>
       
       <guid>http://gogo.tattoo/tattoo/feather_bird/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Koi or Dragon</title>
-      <link>http://gogo.tattoo/tattoo/dragon_koi_shoulder/</link>
-      <pubDate>Sun, 12 Jun 2016 23:03:04 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/tattoo/dragon_koi_shoulder/</guid>
       <description></description>
     </item>
     
