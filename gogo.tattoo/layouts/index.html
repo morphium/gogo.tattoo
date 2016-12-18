@@ -1,13 +1,60 @@
-{{ partial "header.html" . }}
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body id="page-top">
+        {{ if or .Site.Params.navigation.links.about .Site.Params.navigation.links.services .Site.Params.navigation.links.portfolio .Site.Params.navigation.links.contact }}
+            {{ partial "nav.html" . }}
+        {{ end }}
 
-	<main role="main">
-{{ range (where .Data.Pages "Section" "tattoo") }}
-		<article itemscope itemtype="http://schema.org/Blog">
-			<a href="{{ .RelPermalink }}">
-				<img class="tattoo-image" src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg"  width="500" height="500" alt="{{ .Title }}">
-			</a>
-		</article>
-{{ end }}
-	</main>
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+							{{ partial "profile.html" }}
+					  </div>
+						<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+							 <main role="main">
+                   <div id="tattoo-wrapper">
+	                    <div id="tattoo-columns">
+								{{ range (where .Data.Pages "Section" "tattoo") }}
+              		<div class="pin">
+											<a href="{{ .RelPermalink }}">
+												<figure>
+										      <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image">
+										      <figcaption>{{ .Title }}</figcaption>
+										    </figure>
+											</a>
+                  </div>
+								{{ end }}
+              </div>
+                  </div>
+								</main>
+						</div>
+					</div>
+				</div>
 
-{{ partial "footer.html" . }}
+        {{ if .Site.Data.projects }}
+            {{ partial "posts.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.location }}
+            {{ partial "location.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.cta }}
+            {{ partial "cta.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.contact }}
+            {{ partial "contact.html" . }}
+        {{ end }}
+
+        {{ if .Site.Data.projects }}
+            {{ partial "modals.html" . }}
+        {{ end }}
+
+        {{ partial "js.html" . }}
+
+
+		{{ partial "footer.html" }}

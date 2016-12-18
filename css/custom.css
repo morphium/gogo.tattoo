@@ -26,11 +26,26 @@ footer {
 
 main {
   margin: 4rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* or space-around */
 }
 
 .container {
   width: 90%;
   max-width: 600px;
+}
+
+a {
+  display: inline-block;
+  margin-bottom: 8px;
+  width: calc(50% - 4px);
+}
+
+@media screen and (min-width: 50em) {
+  a {
+    width: calc(25% - 6px);
+  }
 }
 
 .header-logo img {

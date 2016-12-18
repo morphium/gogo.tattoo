@@ -5,4 +5,9 @@ style = ["colourful", "simplicity", "crazy"]
 bodypart = ["feet", "shoulder", "back", "hand", "arm", "chest", "leg", "forehead"]
 gender = "female"
 image = ""
+images = []
+made_at_shop = ""
+location_city = "Shanghai"
+location_country = "China"
+extra = ""
 +++

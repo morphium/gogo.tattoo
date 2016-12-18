@@ -1,3 +1,21 @@
 baseurl = "http://gogo.tattoo/gogo/"
 languageCode = "en-us"
 title = "ʕ•ᴥ•ʔ gogo.tattoo"
+name = "gogo.tattoo"
+description = "main.slogan"
+
+[params]
+
+# The path must be relative to the static folder
+favicon = "favicon.ico"
+
+
+# Navigation
+[params.navigation]
+  brand = "gogo @ gogo tattoo  (Alpha)"
+
+  [params.navigation.links]
+    about     = "nav.about"
+    services  = "nav.services"
+    portfolio = "nav.portfolio"
+    contact   = "nav.contact"
