@@ -11,50 +11,34 @@
 				<div class="container-fluid">
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-							{{ partial "profile.html" }}
+							{{ partial "profile.html" . }}
 					  </div>
 						<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 							 <main role="main">
                    <div id="tattoo-wrapper">
 	                    <div id="tattoo-columns">
-								{{ range (where .Data.Pages "Section" "tattoo") }}
-              		<div class="pin">
-											<a href="{{ .RelPermalink }}">
-												<figure>
-										      <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image">
-										      <figcaption>{{ .Title }}</figcaption>
-										    </figure>
-											</a>
-                  </div>
-								{{ end }}
-              </div>
+        								{{ range (where .Data.Pages "Section" "tattoo") }}
+                      		<div class="pin">
+        											<a href="{{ .RelPermalink }}">
+        												<figure>
+        										      <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image">
+        										      <figcaption>{{ .Title }}</figcaption>
+        										    </figure>
+        											</a>
+                          </div>
+        								{{ end }}
+                      </div>
                   </div>
 								</main>
 						</div>
 					</div>
 				</div>
 
-        {{ if .Site.Data.projects }}
-            {{ partial "posts.html" . }}
-        {{ end }}
 
-        {{ if .Site.Params.location }}
-            {{ partial "location.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.cta }}
-            {{ partial "cta.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.contact }}
-            {{ partial "contact.html" . }}
-        {{ end }}
-
-        {{ if .Site.Data.projects }}
-            {{ partial "modals.html" . }}
-        {{ end }}
-
-        {{ partial "js.html" . }}
+    {{ partial "js.html" . }}
 
 
-		{{ partial "footer.html" }}
+		{{ partial "footer.html" .}}
+
+    </body>
+</html>
