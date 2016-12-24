@@ -10,6 +10,16 @@
     <atom:link href="http://gogo.tattoo/gogo/tags/black-and-gray/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Stay True</title>
+      <link>http://gogo.tattoo/gogo/tattoo/stay_true/</link>
+      <pubDate>Sat, 24 Dec 2016 10:30:46 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/stay_true/</guid>
+      <description>&lt;p&gt;Stay True and Simple&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Rose Mandala</title>
       <link>http://gogo.tattoo/gogo/tattoo/rose_mondala/</link>
       <pubDate>Sun, 18 Dec 2016 20:10:33 +0800</pubDate>
@@ -132,15 +142,6 @@
       <pubDate>Sat, 03 Sep 2016 14:36:33 +0800</pubDate>
       
       <guid>http://gogo.tattoo/gogo/tattoo/thequeeneye/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mandatus</title>
-      <link>http://gogo.tattoo/gogo/tattoo/mandatus/</link>
-      <pubDate>Thu, 01 Sep 2016 14:33:04 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/mandatus/</guid>
       <description></description>
     </item>
     
