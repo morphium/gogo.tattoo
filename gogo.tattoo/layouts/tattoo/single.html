@@ -31,6 +31,15 @@
 													</div>
 												 {{ end }}
 											{{ end }}
+											{{ range .Params.images_ipfs }}
+  	              				<div class="pin">
+  													<figure>
+  														<img class="tattoo-image"
+  															src="https://gateway.ipfs.io/ipfs/{{ . }}"
+  															alt="{{ $.Title }}">
+  													</figure>
+  												</div>
+											{{ end }}
 			              	<div class="pin">
 												<figure>
 													<img class="tattoo-image"
