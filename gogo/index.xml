@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 24 Dec 2016 10:30:46 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Dec 2016 12:57:43 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Genesis Block</title>
+      <link>http://gogo.tattoo/gogo/tattoo/genesis_block/</link>
+      <pubDate>Sun, 25 Dec 2016 12:57:43 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/genesis_block/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>His Family Members</title>
+      <link>http://gogo.tattoo/gogo/tattoo/family_members/</link>
+      <pubDate>Sat, 24 Dec 2016 19:46:07 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/family_members/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stay True</title>
@@ -125,24 +143,6 @@
       <pubDate>Sun, 18 Dec 2016 19:38:10 +0800</pubDate>
       
       <guid>http://gogo.tattoo/gogo/tattoo/melting_yinyang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life is a journey</title>
-      <link>http://gogo.tattoo/gogo/tattoo/life_journey/</link>
-      <pubDate>Sun, 18 Dec 2016 19:33:49 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/life_journey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Galaxy on your leg</title>
-      <link>http://gogo.tattoo/gogo/tattoo/leg_galaxy/</link>
-      <pubDate>Sun, 18 Dec 2016 19:29:11 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/leg_galaxy/</guid>
       <description></description>
     </item>
     

@@ -10,6 +10,15 @@
     <atom:link href="http://gogo.tattoo/gogo/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>His Family Members</title>
+      <link>http://gogo.tattoo/gogo/tattoo/family_members/</link>
+      <pubDate>Sat, 24 Dec 2016 19:46:07 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/family_members/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lotus Colored Blue</title>
       <link>http://gogo.tattoo/gogo/tattoo/blue_lotus_coloring/</link>
       <pubDate>Mon, 19 Dec 2016 23:05:21 +0800</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Sun, 12 Jun 2016 23:39:21 +0800</pubDate>
       
       <guid>http://gogo.tattoo/gogo/tattoo/star_unicorn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>It&#39;ll fly away</title>
-      <link>http://gogo.tattoo/gogo/tattoo/shoulder_butterfly/</link>
-      <pubDate>Sun, 12 Jun 2016 23:35:31 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/shoulder_butterfly/</guid>
       <description></description>
     </item>
     
