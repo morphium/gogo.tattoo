@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 25 Dec 2016 12:57:43 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Dec 2016 23:04:35 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>This too shall pass</title>
+      <link>http://gogo.tattoo/gogo/tattoo/will_past/</link>
+      <pubDate>Mon, 26 Dec 2016 23:04:35 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/will_past/</guid>
+      <description>&lt;p&gt;We sincerely tried to explain to her (even listened to 1983 Gospel by James Cleveland),
+but she insisted. So we decided that that must mean something to her, and, let&amp;rsquo;s
+agree, the wish of the client shall be respected.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Genesis Block</title>
@@ -134,15 +146,6 @@
       <pubDate>Sun, 18 Dec 2016 19:41:26 +0800</pubDate>
       
       <guid>http://gogo.tattoo/gogo/tattoo/pixel_heart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yinyang on own feet</title>
-      <link>http://gogo.tattoo/gogo/tattoo/melting_yinyang/</link>
-      <pubDate>Sun, 18 Dec 2016 19:38:10 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/melting_yinyang/</guid>
       <description></description>
     </item>
     
