@@ -31,6 +31,6 @@ image = "will_past_final"
 
 +++
 
-  We sincerely tried to explain to her (even listened to 1983 Gospel by James Cleveland),
+  We sincerely [tried to explain](https://en.wikipedia.org/wiki/This_too_shall_pass) (even listened to [1983 Gospel by James Cleveland](http://bit.ly/2iyWUAA)),
 but she insisted. So we decided that that must mean something to her, and, let's
 agree, the wish of the client shall be respected.
