@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "ʕ•ᴥ•ʔ gogo.tattoo"
 name = "gogo.tattoo"
 copyright = "gogo.tattoo"
+googleAnalytics = "UA-79234406-1"
 
 [params]
 # The path must be relative to the static folder
