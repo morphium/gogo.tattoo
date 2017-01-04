@@ -10,7 +10,7 @@ images_ipfs = [
   "QmWogt8ruYTaAfZVCQgEaCvUEVBjHmePJMAbJvyrNobvDF"
 ]
 date = "2016-12-25T12:57:43+08:00"
-title = "The Genesis Block"
+title = "The Genesis Block [part1]"
 tattoodate = "2016-12-24T18:57:43+08:00"
 made_at_shop = "chushangfeng"
 images = [
