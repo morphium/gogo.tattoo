@@ -42,9 +42,11 @@
 											{{ end }}
 			              	<div class="pin">
 												<figure>
-													<img class="tattoo-image"
-													src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg"
-													alt="{{ .Title }}">
+                          {{ if .Params.image_ipfs }}
+                            <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image">
+                          {{ else }}
+                            <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image">
+                          {{ end }}
 												</figure>
 											</div>
 			              </div>
