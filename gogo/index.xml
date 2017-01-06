@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Wed, 04 Jan 2017 10:02:52 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2017 19:01:06 +0300</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Watercolor flower</title>
+      <link>http://gogo.tattoo/gogo/tattoo/watercolor_flower/</link>
+      <pubDate>Thu, 05 Jan 2017 19:01:06 +0300</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/watercolor_flower/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The genesis block [part2&#43;mandala]</title>
@@ -139,15 +148,6 @@ agree, the wish of the client shall be respected.&lt;/p&gt;
       <pubDate>Sun, 18 Dec 2016 19:55:41 +0800</pubDate>
       
       <guid>http://gogo.tattoo/gogo/tattoo/skull_hand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cartoon tiger</title>
-      <link>http://gogo.tattoo/gogo/tattoo/tiger_arm/</link>
-      <pubDate>Sun, 18 Dec 2016 19:51:33 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/tiger_arm/</guid>
       <description></description>
     </item>
     
