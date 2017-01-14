@@ -298,12 +298,12 @@ article {
 
 @media (min-width: 800px) {
 	.tags {
-    height: 1px;
+    height: 100px;
 	}
 }
 @media (min-width: 400px) {
 	.tags {
-    height: 80px;
+    height: 100px;
 	}
 }
 .tags li, .tags a {
