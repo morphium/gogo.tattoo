@@ -7,8 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Thu, 12 Jan 2017 19:01:06 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jan 2017 09:13:31 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Snake Head</title>
+      <link>http://gogo.tattoo/gogo/design/snake_head/</link>
+      <pubDate>Mon, 16 Jan 2017 09:13:31 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/design/snake_head/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pan&#39;s compass</title>
+      <link>http://gogo.tattoo/gogo/design/pans_compass/</link>
+      <pubDate>Mon, 16 Jan 2017 09:11:24 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/design/pans_compass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lesbibull</title>
+      <link>http://gogo.tattoo/gogo/design/lesbibull/</link>
+      <pubDate>Mon, 16 Jan 2017 08:13:57 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/design/lesbibull/</guid>
+      <description>&lt;p&gt;This design has unique history&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Aries</title>
@@ -122,33 +150,6 @@ agree, the wish of the client shall be respected.&lt;/p&gt;
       <guid>http://gogo.tattoo/gogo/tattoo/stay_true/</guid>
       <description>&lt;p&gt;Stay True and Simple&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Lotus Colored Blue</title>
-      <link>http://gogo.tattoo/gogo/tattoo/blue_lotus_coloring/</link>
-      <pubDate>Mon, 19 Dec 2016 23:05:21 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/blue_lotus_coloring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finger unicorn cover</title>
-      <link>http://gogo.tattoo/gogo/tattoo/finger_unicorn/</link>
-      <pubDate>Sun, 18 Dec 2016 20:25:40 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/finger_unicorn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rose Mandala</title>
-      <link>http://gogo.tattoo/gogo/tattoo/rose_mondala/</link>
-      <pubDate>Sun, 18 Dec 2016 20:10:33 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/rose_mondala/</guid>
-      <description></description>
     </item>
     
   </channel>
