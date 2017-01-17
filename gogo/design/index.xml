@@ -7,11 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 16 Jan 2017 17:20:45 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jan 2017 16:34:28 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/design/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Anchored Infinity</title>
+      <title>Wanderlust Compass</title>
+      <link>http://gogo.tattoo/gogo/design/wanderlust_compass/</link>
+      <pubDate>Tue, 17 Jan 2017 16:34:28 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/design/wanderlust_compass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anchored Infinity &#43; Moon</title>
       <link>http://gogo.tattoo/gogo/design/anchored_infinity/</link>
       <pubDate>Mon, 16 Jan 2017 17:20:45 +0800</pubDate>
       
