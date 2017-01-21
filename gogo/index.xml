@@ -7,8 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 16 Jan 2017 09:13:31 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2017 23:00:39 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pan&#39;s compass</title>
+      <link>http://gogo.tattoo/gogo/tattoo/pans_compass/</link>
+      <pubDate>Sat, 21 Jan 2017 23:00:39 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/pans_compass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anchored infinity &#43; moon &#43; waves</title>
+      <link>http://gogo.tattoo/gogo/tattoo/anchored_infinity_moon/</link>
+      <pubDate>Tue, 17 Jan 2017 17:01:06 +0300</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/anchored_infinity_moon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanderlust Compass</title>
+      <link>http://gogo.tattoo/gogo/tattoo/wanderlust_compass/</link>
+      <pubDate>Tue, 17 Jan 2017 15:01:06 +0300</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/wanderlust_compass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanderlust Compass</title>
+      <link>http://gogo.tattoo/gogo/design/wanderlust_compass/</link>
+      <pubDate>Tue, 17 Jan 2017 16:34:28 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/design/wanderlust_compass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anchored Infinity &#43; Moon</title>
+      <link>http://gogo.tattoo/gogo/design/anchored_infinity/</link>
+      <pubDate>Mon, 16 Jan 2017 17:20:45 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/design/anchored_infinity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aries</title>
+      <link>http://gogo.tattoo/gogo/design/aries/</link>
+      <pubDate>Mon, 16 Jan 2017 17:20:35 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/design/aries/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Snake Head</title>
@@ -90,66 +144,6 @@
       
       <guid>http://gogo.tattoo/gogo/tattoo/genesis_background_mandala/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Eagle arm ring</title>
-      <link>http://gogo.tattoo/gogo/tattoo/eagle_arm_ring/</link>
-      <pubDate>Sat, 31 Dec 2016 19:01:06 +0300</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/eagle_arm_ring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Skull on Chest</title>
-      <link>http://gogo.tattoo/gogo/tattoo/skull_on_chest/</link>
-      <pubDate>Tue, 27 Dec 2016 00:07:11 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/skull_on_chest/</guid>
-      <description>&lt;p&gt;The skull was designed by his girlfriend, who &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tattoo/rose_mondala&#34;&gt;got a tattoo&lt;/a&gt; from us less than two weeks ago.
-After the healing, we can consider more coloring. There&amp;rsquo;s a freedom for improvisation.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>This too shall pass</title>
-      <link>http://gogo.tattoo/gogo/tattoo/will_past/</link>
-      <pubDate>Mon, 26 Dec 2016 23:04:35 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/will_past/</guid>
-      <description>&lt;p&gt;We sincerely &lt;a href=&#34;https://en.wikipedia.org/wiki/This_too_shall_pass&#34;&gt;tried to explain&lt;/a&gt; (even listened to &lt;a href=&#34;http://bit.ly/2iyWUAA&#34;&gt;1983 Gospel by James Cleveland&lt;/a&gt;),
-but she insisted. So we decided that that must mean something to her, and, let&amp;rsquo;s
-agree, the wish of the client shall be respected.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Genesis Block [part1]</title>
-      <link>http://gogo.tattoo/gogo/tattoo/genesis_block/</link>
-      <pubDate>Sun, 25 Dec 2016 12:57:43 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/genesis_block/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>His Family Members</title>
-      <link>http://gogo.tattoo/gogo/tattoo/family_members/</link>
-      <pubDate>Sat, 24 Dec 2016 19:46:07 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/family_members/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stay True</title>
-      <link>http://gogo.tattoo/gogo/tattoo/stay_true/</link>
-      <pubDate>Sat, 24 Dec 2016 10:30:46 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/stay_true/</guid>
-      <description>&lt;p&gt;Stay True and Simple&lt;/p&gt;
-</description>
     </item>
     
   </channel>
