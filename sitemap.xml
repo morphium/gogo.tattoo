@@ -9,17 +9,23 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://gogo.tattoo/ru/sitemap.xml</loc>
+	   	<loc>http://gogo.tattoo/zh-hant/sitemap.xml</loc>
+		
+	   	<lastmod>2017-12-17T00:00:00+00:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://gogo.tattoo/zh-hant/sitemap.xml</loc>
+	   	<loc>http://gogo.tattoo/ru/sitemap.xml</loc>
+		
+	   	<lastmod>2017-12-17T00:00:00+00:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
 	   	<loc>http://gogo.tattoo/zh/sitemap.xml</loc>
+		
+	   	<lastmod>2017-12-17T00:00:00+00:00</lastmod>
 		
 	</sitemap>
 	
