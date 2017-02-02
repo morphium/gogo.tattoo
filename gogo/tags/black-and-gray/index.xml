@@ -10,6 +10,34 @@
     <atom:link href="http://gogo.tattoo/gogo/tags/black-and-gray/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Popular tiger</title>
+      <link>http://gogo.tattoo/gogo/tattoo/popular_tiger/</link>
+      <pubDate>Thu, 02 Feb 2017 10:31:12 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/popular_tiger/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;His &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tags/sweetheart&#34;&gt;sweetheart&lt;/a&gt; visited our shop a day before &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tattoo/popular_deer&#34;&gt;for the popular deer&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Popular deer</title>
+      <link>http://gogo.tattoo/gogo/tattoo/popular_deer/</link>
+      <pubDate>Thu, 02 Feb 2017 10:31:05 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/popular_deer/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;The first day a girl came to our shop with a request for a popular tattoo.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ve made some adjustments and proceeded to action.&lt;/p&gt;
+
+&lt;p&gt;The next day her &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tags/sweetheart&#34;&gt;sweetheart&lt;/a&gt; and her came back for &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tattoo/popular_tiger&#34;&gt;the popular tiger tattoo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Impollutable brain</title>
       <link>http://gogo.tattoo/gogo/design/impollutable_brain/</link>
       <pubDate>Sun, 22 Jan 2017 15:36:40 +0800</pubDate>
@@ -129,24 +157,6 @@ After the healing, we can consider more coloring. There&amp;rsquo;s a freedom fo
       <guid>http://gogo.tattoo/gogo/tattoo/stay_true/</guid>
       <description>&lt;p&gt;Stay True and Simple&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Rose Mandala</title>
-      <link>http://gogo.tattoo/gogo/tattoo/rose_mandala/</link>
-      <pubDate>Sun, 18 Dec 2016 20:10:33 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/rose_mandala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daisy</title>
-      <link>http://gogo.tattoo/gogo/tattoo/daisy/</link>
-      <pubDate>Sun, 18 Dec 2016 20:05:43 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/daisy/</guid>
-      <description></description>
     </item>
     
   </channel>

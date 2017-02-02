@@ -7,8 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 23 Jan 2017 17:01:06 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2017 10:31:12 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Popular tiger</title>
+      <link>http://gogo.tattoo/gogo/tattoo/popular_tiger/</link>
+      <pubDate>Thu, 02 Feb 2017 10:31:12 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/popular_tiger/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;His &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tags/sweetheart&#34;&gt;sweetheart&lt;/a&gt; visited our shop a day before &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tattoo/popular_deer&#34;&gt;for the popular deer&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Popular deer</title>
+      <link>http://gogo.tattoo/gogo/tattoo/popular_deer/</link>
+      <pubDate>Thu, 02 Feb 2017 10:31:05 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/popular_deer/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;The first day a girl came to our shop with a request for a popular tattoo.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ve made some adjustments and proceeded to action.&lt;/p&gt;
+
+&lt;p&gt;The next day her &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tags/sweetheart&#34;&gt;sweetheart&lt;/a&gt; and her came back for &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tattoo/popular_tiger&#34;&gt;the popular tiger tattoo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Olive branch</title>
@@ -130,24 +158,6 @@ After the healing, we can consider more coloring. There&amp;rsquo;s a freedom fo
 but she insisted. So we decided that that must mean something to her, and, let&amp;rsquo;s
 agree, the wish of the client shall be respected.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>The Genesis Block [part1]</title>
-      <link>http://gogo.tattoo/gogo/tattoo/genesis_block/</link>
-      <pubDate>Sun, 25 Dec 2016 12:57:43 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/genesis_block/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>His Family Members</title>
-      <link>http://gogo.tattoo/gogo/tattoo/family_members/</link>
-      <pubDate>Sat, 24 Dec 2016 19:46:07 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/family_members/</guid>
-      <description></description>
     </item>
     
   </channel>
