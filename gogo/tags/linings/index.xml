@@ -10,6 +10,15 @@
     <atom:link href="http://gogo.tattoo/gogo/tags/linings/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Humanbot evolution</title>
+      <link>http://gogo.tattoo/gogo/design/humanbot_evolution/</link>
+      <pubDate>Sun, 05 Feb 2017 12:51:26 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/design/humanbot_evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Olive branch</title>
       <link>http://gogo.tattoo/gogo/tattoo/olive_branch/</link>
       <pubDate>Mon, 23 Jan 2017 17:01:06 +0300</pubDate>

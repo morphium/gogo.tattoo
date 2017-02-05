@@ -10,6 +10,15 @@
     <atom:link href="http://gogo.tattoo/gogo/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Humanbot evolution</title>
+      <link>http://gogo.tattoo/gogo/design/humanbot_evolution/</link>
+      <pubDate>Sun, 05 Feb 2017 12:51:26 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/design/humanbot_evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lesbibull</title>
       <link>http://gogo.tattoo/gogo/design/lesbibull/</link>
       <pubDate>Mon, 16 Jan 2017 08:13:57 +0800</pubDate>
@@ -138,15 +147,6 @@ and next day was put on &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tattoo/rose
       <pubDate>Thu, 08 Sep 2016 11:41:57 +0800</pubDate>
       
       <guid>http://gogo.tattoo/gogo/tattoo/backmap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fronteye</title>
-      <link>http://gogo.tattoo/gogo/tattoo/fronteye/</link>
-      <pubDate>Wed, 07 Sep 2016 11:41:57 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/fronteye/</guid>
       <description></description>
     </item>
     
