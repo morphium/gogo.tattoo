@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Thu, 02 Feb 2017 10:31:12 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2017 16:07:07 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Eagle</title>
+      <link>http://gogo.tattoo/gogo/tattoo/eagle/</link>
+      <pubDate>Sun, 05 Feb 2017 16:07:07 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/eagle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Popular tiger</title>
@@ -145,18 +154,6 @@
       <guid>http://gogo.tattoo/gogo/tattoo/skull_on_chest/</guid>
       <description>&lt;p&gt;The skull was designed by his girlfriend, who &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tattoo/rose_mondala&#34;&gt;got a tattoo&lt;/a&gt; from us less than two weeks ago.
 After the healing, we can consider more coloring. There&amp;rsquo;s a freedom for improvisation.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>This too shall pass</title>
-      <link>http://gogo.tattoo/gogo/tattoo/will_past/</link>
-      <pubDate>Mon, 26 Dec 2016 23:04:35 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/will_past/</guid>
-      <description>&lt;p&gt;We sincerely &lt;a href=&#34;https://en.wikipedia.org/wiki/This_too_shall_pass&#34;&gt;tried to explain&lt;/a&gt; (even listened to &lt;a href=&#34;http://bit.ly/2iyWUAA&#34;&gt;1983 Gospel by James Cleveland&lt;/a&gt;),
-but she insisted. So we decided that that must mean something to her, and, let&amp;rsquo;s
-agree, the wish of the client shall be respected.&lt;/p&gt;
 </description>
     </item>
     

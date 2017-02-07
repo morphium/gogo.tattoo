@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 05 Feb 2017 12:51:26 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2017 16:07:07 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Eagle</title>
+      <link>http://gogo.tattoo/gogo/tattoo/eagle/</link>
+      <pubDate>Sun, 05 Feb 2017 16:07:07 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/eagle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Humanbot evolution</title>
@@ -146,15 +155,6 @@
       <guid>http://gogo.tattoo/gogo/design/lesbibull/</guid>
       <description>&lt;p&gt;This design has unique history&amp;hellip;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Aries</title>
-      <link>http://gogo.tattoo/gogo/tattoo/aries/</link>
-      <pubDate>Thu, 12 Jan 2017 19:01:06 +0300</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/aries/</guid>
-      <description></description>
     </item>
     
   </channel>
