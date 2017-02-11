@@ -10,6 +10,24 @@
     <atom:link href="http://gogo.tattoo/gogo/tags/black-and-gray/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Heart flower</title>
+      <link>http://gogo.tattoo/gogo/design/heart_flower/</link>
+      <pubDate>Sat, 11 Feb 2017 17:01:47 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/design/heart_flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chest lotus</title>
+      <link>http://gogo.tattoo/gogo/design/chest_lotus/</link>
+      <pubDate>Sat, 11 Feb 2017 16:41:43 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/design/chest_lotus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Popular tiger</title>
       <link>http://gogo.tattoo/gogo/tattoo/popular_tiger/</link>
       <pubDate>Thu, 02 Feb 2017 10:31:12 +0800</pubDate>
@@ -138,25 +156,6 @@ After the healing, we can consider more coloring. There&amp;rsquo;s a freedom fo
       
       <guid>http://gogo.tattoo/gogo/tattoo/genesis_block/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>His Family Members</title>
-      <link>http://gogo.tattoo/gogo/tattoo/family_members/</link>
-      <pubDate>Sat, 24 Dec 2016 19:46:07 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/family_members/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stay True</title>
-      <link>http://gogo.tattoo/gogo/tattoo/stay_true/</link>
-      <pubDate>Sat, 24 Dec 2016 10:30:46 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/stay_true/</guid>
-      <description>&lt;p&gt;Stay True and Simple&lt;/p&gt;
-</description>
     </item>
     
   </channel>
