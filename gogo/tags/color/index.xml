@@ -10,6 +10,15 @@
     <atom:link href="http://gogo.tattoo/gogo/tags/color/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Red flower</title>
+      <link>http://gogo.tattoo/gogo/tattoo/red_flower/</link>
+      <pubDate>Sun, 12 Feb 2017 09:29:46 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/red_flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Motley eagle</title>
       <link>http://gogo.tattoo/gogo/design/motley_eagle/</link>
       <pubDate>Tue, 07 Feb 2017 16:57:19 +0800</pubDate>
@@ -136,16 +145,6 @@ After the healing, we can consider more coloring. There&amp;rsquo;s a freedom fo
       
       <guid>http://gogo.tattoo/gogo/tattoo/melting_yinyang/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Chinese Chest</title>
-      <link>http://gogo.tattoo/gogo/tattoo/chinese_chest/</link>
-      <pubDate>Sat, 17 Dec 2016 14:30:43 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/chinese_chest/</guid>
-      <description>&lt;p&gt;This tattoo was made very very long time ago&amp;hellip;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
