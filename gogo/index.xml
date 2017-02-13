@@ -7,8 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 12 Feb 2017 09:29:46 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 17:17:04 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dai flower</title>
+      <link>http://gogo.tattoo/gogo/tattoo/dai_flower/</link>
+      <pubDate>Mon, 13 Feb 2017 17:17:04 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/dai_flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planets</title>
+      <link>http://gogo.tattoo/gogo/henna/planets/</link>
+      <pubDate>Mon, 13 Feb 2017 16:55:20 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/henna/planets/</guid>
+      <description>&lt;p&gt;Our first henna experiments.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Lycoris radiata</title>
@@ -136,24 +155,6 @@
       <guid>http://gogo.tattoo/gogo/design/impollutable_brain/</guid>
       <description>&lt;p&gt;Contact us at &lt;a href=&#34;email:team@gogo.tattoo&#34;&gt;team@gogo.tattoo&lt;/a&gt; to get the design inked on your body.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pan&#39;s compass</title>
-      <link>http://gogo.tattoo/gogo/tattoo/pans_compass/</link>
-      <pubDate>Sat, 21 Jan 2017 23:00:39 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/pans_compass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anchored infinity &#43; moon &#43; waves</title>
-      <link>http://gogo.tattoo/gogo/tattoo/anchored_infinity_moon/</link>
-      <pubDate>Tue, 17 Jan 2017 17:01:06 +0300</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/anchored_infinity_moon/</guid>
-      <description></description>
     </item>
     
   </channel>
