@@ -7,17 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Mon, 13 Feb 2017 17:17:04 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2017 16:55:20 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Dai flower</title>
-      <link>http://gogo.tattoo/gogo/tattoo/dai_flower/</link>
-      <pubDate>Mon, 13 Feb 2017 17:17:04 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/dai_flower/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Planets</title>
@@ -27,10 +18,37 @@
       <guid>http://gogo.tattoo/gogo/henna/planets/</guid>
       <description>&lt;p style=&#34;text-align: center;&#34;&gt;
 
-Our first henna experiment.
+Our first henna experiments.
 
 &lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Mirific rose</title>
+      <link>http://gogo.tattoo/gogo/tattoo/mirific_rose/</link>
+      <pubDate>Mon, 13 Feb 2017 11:59:47 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/mirific_rose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cotton flower</title>
+      <link>http://gogo.tattoo/gogo/tattoo/cotton_flower/</link>
+      <pubDate>Mon, 13 Feb 2017 11:38:53 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/cotton_flower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dai flower</title>
+      <link>http://gogo.tattoo/gogo/tattoo/dai_flower/</link>
+      <pubDate>Sun, 12 Feb 2017 17:17:04 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/dai_flower/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -139,25 +157,6 @@ Our first henna experiment.
 &lt;p&gt;We&amp;rsquo;ve made some adjustments and proceeded to action.&lt;/p&gt;
 
 &lt;p&gt;The next day her &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tags/sweetheart&#34;&gt;sweetheart&lt;/a&gt; and her came back for &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tattoo/popular_tiger&#34;&gt;the popular tiger tattoo&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Olive branch</title>
-      <link>http://gogo.tattoo/gogo/tattoo/olive_branch/</link>
-      <pubDate>Mon, 23 Jan 2017 17:01:06 +0300</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/olive_branch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impollutable brain</title>
-      <link>http://gogo.tattoo/gogo/design/impollutable_brain/</link>
-      <pubDate>Sun, 22 Jan 2017 15:36:40 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/design/impollutable_brain/</guid>
-      <description>&lt;p&gt;Contact us at &lt;a href=&#34;email:team@gogo.tattoo&#34;&gt;team@gogo.tattoo&lt;/a&gt; to get the design inked on your body.&lt;/p&gt;
 </description>
     </item>
     
