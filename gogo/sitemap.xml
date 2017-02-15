@@ -3,7 +3,12 @@
   
   <url>
     <loc>http://gogo.tattoo/gogo/</loc>
-    <lastmod>2017-02-13T16:55:20+08:00</lastmod>
+    <lastmod>2017-02-15T19:13:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/gogo/tattoo/eagle_compass/</loc>
+    <lastmod>2017-02-15T19:13:26+08:00</lastmod>
   </url>
   
   <url>
@@ -419,6 +424,10 @@
   <url>
     <loc>http://gogo.tattoo/gogo/art/mirrored/</loc>
     <lastmod>2016-05-31T11:59:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/gogo/piercing/just_lip/</loc>
   </url>
   
 </urlset>
