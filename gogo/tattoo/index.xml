@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Wed, 15 Feb 2017 19:13:26 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 Feb 2017 00:06:40 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Double helix</title>
+      <link>http://gogo.tattoo/gogo/tattoo/double_helix/</link>
+      <pubDate>Fri, 17 Feb 2017 00:06:40 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/double_helix/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Eagle compass</title>
@@ -143,15 +152,6 @@
       <pubDate>Thu, 12 Jan 2017 19:01:06 +0300</pubDate>
       
       <guid>http://gogo.tattoo/gogo/tattoo/aries/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lion scar cover</title>
-      <link>http://gogo.tattoo/gogo/tattoo/lion_scar_cover/</link>
-      <pubDate>Thu, 12 Jan 2017 19:01:06 +0300</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/lion_scar_cover/</guid>
       <description></description>
     </item>
     

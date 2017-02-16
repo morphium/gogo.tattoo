@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Wed, 15 Feb 2017 19:13:26 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 Feb 2017 18:42:15 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://gogo.tattoo/gogo/piercing/just_lip/</link>
+      <pubDate>Fri, 17 Feb 2017 18:42:15 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/piercing/just_lip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double helix</title>
+      <link>http://gogo.tattoo/gogo/tattoo/double_helix/</link>
+      <pubDate>Fri, 17 Feb 2017 00:06:40 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/double_helix/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Eagle compass</title>
@@ -130,27 +148,6 @@ Our first henna experiments.
       
       <guid>http://gogo.tattoo/gogo/design/humanbot_evolution/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Fancy chest lotus</title>
-      <link>http://gogo.tattoo/gogo/design/fancy_chest_lotus/</link>
-      <pubDate>Fri, 03 Feb 2017 17:23:13 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/design/fancy_chest_lotus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Popular tiger</title>
-      <link>http://gogo.tattoo/gogo/tattoo/popular_tiger/</link>
-      <pubDate>Thu, 02 Feb 2017 10:31:12 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/popular_tiger/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;p&gt;His &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tags/sweetheart&#34;&gt;sweetheart&lt;/a&gt; visited our shop a day before &lt;a href=&#34;http://gogo.tattoo/gogo/gogo/tattoo/popular_deer&#34;&gt;for the popular deer&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
