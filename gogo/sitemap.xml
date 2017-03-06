@@ -3,7 +3,12 @@
   
   <url>
     <loc>http://gogo.tattoo/gogo/</loc>
-    <lastmod>2017-03-03T23:35:18+08:00</lastmod>
+    <lastmod>2017-03-06T19:10:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/gogo/tattoo/hater_antipode/</loc>
+    <lastmod>2017-03-06T19:10:00+08:00</lastmod>
   </url>
   
   <url>
@@ -499,10 +504,6 @@
   <url>
     <loc>http://gogo.tattoo/gogo/art/mirrored/</loc>
     <lastmod>2016-05-31T11:59:59+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://gogo.tattoo/gogo/tattoo/hater_antipode/</loc>
   </url>
   
 </urlset>
