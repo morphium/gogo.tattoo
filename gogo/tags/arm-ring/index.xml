@@ -2,19 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arm Ring on ʕ•ᴥ•ʔ gogo.tattoo</title>
-    <link>http://gogo.tattoo/gogo/tags/arm-ring/index.xml</link>
+    <link>http://gogo.tattoo/tags/arm-ring/index.xml</link>
     <description>Recent content in Arm Ring on ʕ•ᴥ•ʔ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="http://gogo.tattoo/gogo/tags/arm-ring/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gogo.tattoo/tags/arm-ring/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Depend on yourself</title>
+      <link>http://gogo.tattoo/tattoo/depend_yourself/</link>
+      <pubDate>Mon, 20 Mar 2017 08:30:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/depend_yourself/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nancy jellyfish</title>
+      <link>http://gogo.tattoo/tattoo/nancy_jellyfish/</link>
+      <pubDate>Mon, 20 Mar 2017 08:30:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/tattoo/nancy_jellyfish/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Eagle arm ring</title>
-      <link>http://gogo.tattoo/gogo/tattoo/eagle_arm_ring/</link>
+      <link>http://gogo.tattoo/tattoo/eagle_arm_ring/</link>
       <pubDate>Sat, 31 Dec 2016 19:01:06 +0300</pubDate>
       
-      <guid>http://gogo.tattoo/gogo/tattoo/eagle_arm_ring/</guid>
+      <guid>http://gogo.tattoo/tattoo/eagle_arm_ring/</guid>
       <description></description>
     </item>
     

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joker on ʕ•ᴥ•ʔ gogo.tattoo</title>
-    <link>http://gogo.tattoo/gogo/tags/joker/index.xml</link>
+    <link>http://gogo.tattoo/tags/joker/index.xml</link>
     <description>Recent content in Joker on ʕ•ᴥ•ʔ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <atom:link href="http://gogo.tattoo/gogo/tags/joker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gogo.tattoo/tags/joker/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Joker cup</title>
-      <link>http://gogo.tattoo/gogo/design/joker_cup/</link>
+      <link>http://gogo.tattoo/design/joker_cup/</link>
       <pubDate>Sat, 18 Mar 2017 01:21:00 +0800</pubDate>
       
-      <guid>http://gogo.tattoo/gogo/design/joker_cup/</guid>
+      <guid>http://gogo.tattoo/design/joker_cup/</guid>
       <description></description>
     </item>
     
