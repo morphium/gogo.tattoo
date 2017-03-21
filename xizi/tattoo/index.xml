@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>xizi @ gogo.tattoo</title>
-    <link>http://gogo.tattoo/xizi/index.xml</link>
-    <description>Recent content on xizi @ gogo.tattoo</description>
+    <title>Tattoos on xizi @ gogo.tattoo</title>
+    <link>http://gogo.tattoo/xizi/tattoo/index.xml</link>
+    <description>Recent content in Tattoos on xizi @ gogo.tattoo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Xizi</copyright>
     <lastBuildDate>Wed, 22 Mar 2017 00:40:00 +0800</lastBuildDate>
-    <atom:link href="http://gogo.tattoo/xizi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://gogo.tattoo/xizi/tattoo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Geometric shapes</title>
@@ -25,15 +25,6 @@
       <pubDate>Wed, 22 Mar 2017 00:30:00 +0800</pubDate>
       
       <guid>http://gogo.tattoo/xizi/tattoo/feather_bird/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Just a random drawing</title>
-      <link>http://gogo.tattoo/xizi/henna/just_random/</link>
-      <pubDate>Wed, 22 Mar 2017 00:22:00 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/xizi/henna/just_random/</guid>
       <description></description>
     </item>
     
