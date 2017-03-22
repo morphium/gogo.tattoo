@@ -23,24 +23,22 @@
 	</sitemap>
 	
 	<sitemap>
+	   	<loc>http://gogo.tattoo/zh/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
 	   	<loc>http://gogo.tattoo/ja/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://gogo.tattoo/zh/sitemap.xml</loc>
-		
-	   	<lastmod>2017-12-17T00:00:00+00:00</lastmod>
+	   	<loc>http://gogo.tattoo/es/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
 	   	<loc>http://gogo.tattoo/sv/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>http://gogo.tattoo/es/sitemap.xml</loc>
 		
 	</sitemap>
 	
