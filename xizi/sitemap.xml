@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://gogo.tattoo/xizi/</loc>
-    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://gogo.tattoo/xizi/design/garden_birds/</loc>
     <lastmod>2017-03-22T22:10:01+08:00</lastmod>
   </url>
@@ -44,6 +39,161 @@
   <url>
     <loc>http://gogo.tattoo/xizi/tattoo/deer_bride/</loc>
     <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/beauty/</loc>
+    <lastmod>2017-03-22T22:01:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/bird/</loc>
+    <lastmod>2017-03-22T00:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/birds/</loc>
+    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/bore/</loc>
+    <lastmod>2017-03-22T22:01:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/bride/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/circle/</loc>
+    <lastmod>2017-03-22T00:40:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/color/</loc>
+    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/cover/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/deer/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/design/</loc>
+    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/dots/</loc>
+    <lastmod>2017-03-22T00:40:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/feather/</loc>
+    <lastmod>2017-03-22T00:30:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/first-blood/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/fixing/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/flowers/</loc>
+    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/freehand/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/fruits/</loc>
+    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/garden/</loc>
+    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/geometric/</loc>
+    <lastmod>2017-03-22T00:40:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/henna/</loc>
+    <lastmod>2017-03-22T00:22:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/linings/</loc>
+    <lastmod>2017-03-22T00:40:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/random/</loc>
+    <lastmod>2017-03-22T00:22:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tattoo/</loc>
+    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/tags/welcome/</loc>
+    <lastmod>2017-03-20T09:48:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gogo.tattoo/xizi/</loc>
+    <lastmod>2017-03-22T22:10:01+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
