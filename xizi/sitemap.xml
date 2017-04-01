@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://gogo.tattoo/xizi/en/sitemap.xml</loc>
+		
+	   	<lastmod>2017-03-24T19:48:00+08:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://gogo.tattoo/xizi/ru/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://gogo.tattoo/xizi/zh-hant/sitemap.xml</loc>
+		
+	   	<lastmod>2017-03-24T19:48:00+08:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://gogo.tattoo/xizi/zh/sitemap.xml</loc>
+		
+	   	<lastmod>2017-03-24T19:48:00+08:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
