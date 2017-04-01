@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tattoos on ʕ•ᴥ•ʔ gogo.tattoo</title>
+    <title>Tattoos on ʕ•ᴥ•ʔ gogo.tattool/gogo</title>
     <link>http://gogo.tattoo/gogo/tattoo/index.xml</link>
-    <description>Recent content in Tattoos on ʕ•ᴥ•ʔ gogo.tattoo</description>
+    <description>Recent content in Tattoos on ʕ•ᴥ•ʔ gogo.tattool/gogo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sat, 25 Mar 2017 17:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2017 02:00:00 +0800</lastBuildDate>
     <atom:link href="http://gogo.tattoo/gogo/tattoo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dragon Maori</title>
+      <link>http://gogo.tattoo/gogo/tattoo/dragon_maori/</link>
+      <pubDate>Sat, 01 Apr 2017 02:00:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/dragon_maori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese letters</title>
+      <link>http://gogo.tattoo/gogo/tattoo/chinese_letters/</link>
+      <pubDate>Sat, 01 Apr 2017 01:00:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/chinese_letters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spaceman</title>
+      <link>http://gogo.tattoo/gogo/tattoo/spaceman/</link>
+      <pubDate>Fri, 31 Mar 2017 02:00:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/spaceman/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hand cross</title>
@@ -74,15 +101,6 @@
     </item>
     
     <item>
-      <title>Fortis fortuna</title>
-      <link>http://gogo.tattoo/gogo/tattoo/fortis_fortuna/</link>
-      <pubDate>Tue, 14 Mar 2017 01:10:00 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/fortis_fortuna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mianhua (Cotton)</title>
       <link>http://gogo.tattoo/gogo/tattoo/2017_03_11_mianhua/</link>
       <pubDate>Sat, 11 Mar 2017 01:13:50 +0800</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Fri, 03 Mar 2017 02:00:00 +0800</pubDate>
       
       <guid>http://gogo.tattoo/gogo/tattoo/unnamed_fish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Young forever</title>
-      <link>http://gogo.tattoo/gogo/tattoo/young_forever/</link>
-      <pubDate>Tue, 21 Feb 2017 23:10:00 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/young_forever/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two fishes</title>
-      <link>http://gogo.tattoo/gogo/tattoo/two_fishes/</link>
-      <pubDate>Sun, 19 Feb 2017 15:13:56 +0800</pubDate>
-      
-      <guid>http://gogo.tattoo/gogo/tattoo/two_fishes/</guid>
       <description></description>
     </item>
     
