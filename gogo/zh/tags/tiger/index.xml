@@ -10,6 +10,15 @@
     <atom:link href="http://gogo.tattoo/gogo/zh/tags/tiger/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Tiger</title>
+      <link>http://gogo.tattoo/gogo/zh/tattoo/tiger/</link>
+      <pubDate>Sat, 24 Jun 2017 15:30:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/zh/tattoo/tiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Popular tiger</title>
       <link>http://gogo.tattoo/gogo/zh/tattoo/popular_tiger/</link>
       <pubDate>Thu, 02 Feb 2017 10:31:12 +0800</pubDate>
