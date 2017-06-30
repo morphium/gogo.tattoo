@@ -9,13 +9,6 @@
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://gogo.tattoo/klimin/zh-hant/sitemap.xml</loc>
-		
-	   	<lastmod>2017-06-22T10:00:00+08:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
 	   	<loc>http://gogo.tattoo/klimin/ru/sitemap.xml</loc>
 		
 	   	<lastmod>2017-06-22T10:00:00+08:00</lastmod>
@@ -23,7 +16,16 @@
 	</sitemap>
 	
 	<sitemap>
+	   	<loc>http://gogo.tattoo/klimin/zh-hant/sitemap.xml</loc>
+		
+	   	<lastmod>2017-06-22T10:00:00+08:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
 	   	<loc>http://gogo.tattoo/klimin/zh/sitemap.xml</loc>
+		
+	   	<lastmod>2017-06-22T10:00:00+08:00</lastmod>
 		
 	</sitemap>
 	
