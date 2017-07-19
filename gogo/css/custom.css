@@ -207,7 +207,7 @@ article {
   min-width: 70%;
   min-height: 70%;*/
   width: 260;
-  height: 390;
+  /*height: 390;*/
   object-fit: fill;
   /*z-index: -100;
   background-size: cover;
