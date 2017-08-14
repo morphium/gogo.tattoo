@@ -131,11 +131,6 @@
        $("#list").toggleClass("three-columns");
        $("#control-toggle-view").toggleClass("fa-columns");
        $("#control-toggle-view").toggleClass("fa-bars");
-       if ($("#tattoo-video").width() == 260) {
-         $("#tattoo-video").width(790);
-       } else {
-         $("#tattoo-video").width(260);
-       }
       return false;
     });
 
@@ -150,28 +145,8 @@
        $("#control-toggle-view").removeClass("fa-columns");
        $("#control-toggle-view").addClass("fa-bars");
     }
-    $(window).scroll(function() {
 
-    $('video').each(function(){
-          if ($(this).visible( true )) {
-              $(this)[0].play();
-              $(this)[0].volume = 0;
-          } else {
-              $(this)[0].pause();
-          }
-      })
-    });
-    var figure = $(".tattoo-video").hover( hoverVideo, hideVideo );
-
-    function hoverVideo(e) {
-        $(this).get(0).volume = 0.888;
-    }
-
-    function hideVideo(e) {
-        $(this).get(0).volume = 0;
-    }
-
-    $.getJSON( "http://api.gogo.tattoo/gogo/tattoo?status=wip", function( data ) {
+    $.getJSON( "http://api.gogo.tattoo/aidehua/tattoo?status=wip", function( data ) {
       var items = [];
       $.each( data, function( key, val ) {
         items.push( "<div class=\"pin\">" +
