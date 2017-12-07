@@ -177,13 +177,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="http://gogo.tattoo/ru/categories/"
+                hreflang="zh-hant"
+                href="http://gogo.tattoo/zh-hant/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-hant"
-                href="http://gogo.tattoo/zh-hant/categories/"
+                hreflang="ru"
+                href="http://gogo.tattoo/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -213,13 +213,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="http://gogo.tattoo/ru/post/"
+                hreflang="zh-hant"
+                href="http://gogo.tattoo/zh-hant/post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-hant"
-                href="http://gogo.tattoo/zh-hant/post/"
+                hreflang="ru"
+                href="http://gogo.tattoo/ru/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -233,13 +233,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="http://gogo.tattoo/ru/tags/"
+                hreflang="zh-hant"
+                href="http://gogo.tattoo/zh-hant/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-hant"
-                href="http://gogo.tattoo/zh-hant/tags/"
+                hreflang="ru"
+                href="http://gogo.tattoo/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -269,13 +269,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="http://gogo.tattoo/ru/"
+                hreflang="zh-hant"
+                href="http://gogo.tattoo/zh-hant/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-hant"
-                href="http://gogo.tattoo/zh-hant/"
+                hreflang="ru"
+                href="http://gogo.tattoo/ru/"
                 />
     <xhtml:link
                 rel="alternate"
