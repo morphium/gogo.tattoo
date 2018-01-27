@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>gogo.tattoo</copyright>
-    <lastBuildDate>Sun, 18 Jun 2017 12:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2017 03:20:00 +0800</lastBuildDate>
     
 	<atom:link href="http://gogo.tattoo/gogo/tags/calligraphy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Calligraphy unalome</title>
+      <link>http://gogo.tattoo/gogo/tattoo/calligraphy_unalome/</link>
+      <pubDate>Wed, 13 Dec 2017 03:20:00 +0800</pubDate>
+      
+      <guid>http://gogo.tattoo/gogo/tattoo/calligraphy_unalome/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Calligraphic horse</title>
